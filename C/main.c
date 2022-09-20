@@ -5,7 +5,7 @@ int main(void){
 
     printf("Test commit\n");
 
-    printf("Edit iPad air 4")
+    printf("Edit iPad air 4\n")
 
     return 0;
 }
