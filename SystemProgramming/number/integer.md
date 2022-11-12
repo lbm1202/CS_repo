@@ -17,19 +17,25 @@ integer data type range in C
 How to make negative integer
 - use 2's complement
 >Decimal 43 to negative binary
+
+```
     43 == 0b 0010 1011
        -> 0b 1101 0100 (1's complement)
        -> 0b 1101 0101 (2's complement == 1's complement + 1)
     0b 1101 0101 == -43(Decimal)
+```
 
 therfore
 > 43 + x = 0 ->  x = -43
+
+```
    add
     0b 0010 1011 (43)
     0b 1101 0101 (-43)
     --------------
     0b (1) 0000 0000
    if carry ignore, its fully success 
+```
 
 ***
 binary multiplication
