@@ -1,6 +1,5 @@
 # integer
 Expression of Integer
-[test](#end)
 1. Usually stored in 1 byte, 2 bytes, 4 bytes, 8 bytes
 2. It is divided into signed integer and unsigned integer. 
 3. If there is a sign, the first bit indicates the sign (0: positive number, 1: negative number)
@@ -87,4 +86,4 @@ binary divide & modulo
    0011 / 1011 == 0011
    0011 % 1011 == 0010
 ```
-# end
+
