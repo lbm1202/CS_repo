@@ -1,5 +1,4 @@
 # integer
-[end](#end)
 Expression of Integer
 1. Usually stored in 1 byte, 2 bytes, 4 bytes, 8 bytes
 2. It is divided into signed integer and unsigned integer. 
@@ -87,4 +86,3 @@ binary divide & modulo
    0011 / 1011 == 0011
    0011 % 1011 == 0010
 ```
-'end'
