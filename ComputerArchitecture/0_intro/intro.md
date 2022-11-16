@@ -7,6 +7,7 @@
 5. [Performance](##Performance)
 6. [PowerWall](##PowerWall)
 7. [Change in the future](##Change-in-the-future)
+8. [Remarks](##Remarks)
 
 >Written by Cho JungHee
 junghee@zete.co.kr
@@ -151,6 +152,7 @@ junghee@zete.co.kr
 
 ### CPU Time
 - CPU Time = CPU Clock Cycles * Clock Cycle Time = CPU Clock Cycles / Clock Rate
+
 - How to improve Performace
     1. Decrease Clock Cycle
     2. Increase Clock Rate
@@ -173,5 +175,18 @@ Power and Memory.
 
 Power = 0.5 * Capacity load * Voltage<sup>2</sup> * Frequency
 
+***
 
 ## Change-in-the-future
+>So far, performance has increased every year, but development has slowed down due to the limitations of semiconductors
+Therefore, it was designed to improve performance through multi-core rather than single-core
+
+### Amdahl's Law
+- If you improve any part of your computer, you can see a proportional improvement in overall performance.
+
+***
+
+## Remarks
+
+
+***
